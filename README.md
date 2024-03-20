@@ -12,6 +12,10 @@
 ## 演示站点
 - [立即进入体验](http://124.71.61.5)
 
+<video id="video" controls="" preload="none" poster="images/img_3.png">
+      <source id="mp4" src="images/demo.mp4" type="video/mp4">
+</video>
+
 ## 技术架构
 - 前端：React + Antd
 - 后端：SpringBoot
